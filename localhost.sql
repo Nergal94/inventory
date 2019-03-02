@@ -38,9 +38,9 @@ CREATE TABLE `Users` (
 --
 
 INSERT INTO `Users` (`User`, `Password`) VALUES
-('k.merkulov', 'Finger17'),
-('catice', 'Finger111'),
-('ganz', 'NeverBang17');
+('username', 'Password'),
+('username', 'Password'),
+('username', 'Password');
 --
 -- База данных: `inventory`
 --
